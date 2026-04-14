@@ -1,0 +1,5 @@
+{
+  "name": "AI Blog Publisher",
+  "description": "A responsive blog publishing service for desktop and mobile, powered by Firebase and Gemini AI.",
+  "requestFramePermissions": []
+}
